@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 This is LOCAL change
+=======
+It is an Index.txt file in Git-Command-Assignment folder...
+This is REMOTE change
+>>>>>>> 4fcb0a0d99b24cd09748dcd8250074259182fd25
+
+This is LOCAL and REMOTE change merged
